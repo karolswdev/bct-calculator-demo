@@ -1,1 +1,1 @@
-# bct-calculator-demo
+# Calculator to present the abilities of Sellenium
